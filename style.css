@@ -1,0 +1,51 @@
+input{
+background-color: rgb(255, 255, 255);
+border-radius: 1px;
+border-style: ridge;
+}
+
+form{
+background-color: rgb(46, 20, 80);
+padding: 5%;
+margin-left: 300px;
+margin-right: 300px;
+border-radius: 5px;
+border: 10px solid rgb(46, 11, 46);
+border-style: outset;
+font-size: 20px;
+color: rgb(255, 255, 255);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-shadow: 2px 2px 5px rgb(0, 0, 0);   
+}
+
+body{
+background-image: url(img/c566050ec629084239aae2100910d614.png);
+background-size: cover;
+}
+
+h1{
+    text-decoration-line: underline;
+    text-decoration-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+
+}
+
+#botao{
+width: 100px;
+height: 50px;
+margin-left: 240px;
+margin-top: 30px;
+border-radius: 2px;
+background-color: rgb(64, 10, 75);
+text-decoration-line: underline;
+text-decoration-color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
+border: 10px solid rgb(43, 6, 43);
+border-style: outset;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input{
+opacity: 50%;
+background-color: white;
+}
